@@ -16,12 +16,12 @@ export const Gents = {
 }
 export const Ladies = {
     title: "Ladies Fashion",
-    image1: "assets/Woman/1.jpg",
-    image2: "assets/Woman/2.jpg",
-    image3: "assets/Woman/3.jpg",
-    image4: "assets/Woman/4.jpg",
-    image5: "assets/Woman/5.jpg",
-    image6: "assets/Woman/6.jpg",
+    image1: "Assets/Women/1.jpg",
+    image2: "Assets/Women/2.jpg",
+    image3: "Assets/Women/3.jpg",
+    image4: "Assets/Women/4.jpg",
+    image5: "Assets/Women/5.jpg",
+    image6: "Assets/Women/6.jpg",
     price1: "1559 INR",
     price2: "1459 INR",
     price3: "1659 INR",
